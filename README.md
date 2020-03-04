@@ -28,7 +28,7 @@ Feel free to ask questions and join discussion on the [coast gitter channel](htt
 2. Install the coast cli script
 
 ```sh
-curl -o /usr/local/bin/coast https://raw.githubusercontent.com/coast-framework/coast/next/coast && chmod a+x /usr/local/bin/coast
+curl -o /usr/local/bin/coast https://raw.githubusercontent.com/gaberger/coast/next/coast && chmod a+x /usr/local/bin/coast
 ```
 
 3. Finally, create a new coast project named `todos` and cd into it
